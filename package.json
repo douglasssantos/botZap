@@ -1,10 +1,10 @@
 {
   "name": "atendimento-backend",
   "version": "1.0.0",
-  "description": "Backend do sistema de atendimento da infonet.",
+  "description": "Sistema de atendimento.",
   "main": "index.js",
-  "repository": "https://github.com/Infonet-Telecom/atendimento-backend",
-  "author": "Glederson Domingues",
+  "repository": "https://github.com/douglasssantos/botZap",
+  "author": "Douglas S. Santos",
   "license": "MIT",
   "scripts": {
     "start": "babel-node -r dotenv/config ./src/server.js",
